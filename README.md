@@ -1,4 +1,4 @@
-### Olá , me chamo Leonardo.. seja bem vindo ao meu perfil , vamos nos conectar?👋
+### Olá , me chamo Leonardo.. seja bem vindo ao meu perfil👋
  
 
 
