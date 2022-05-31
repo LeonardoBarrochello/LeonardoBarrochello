@@ -2,7 +2,7 @@
  
 
 
-- 🔭 Atualmente trabalhando como Desenvolvedor web
+- 🔭 Desenvolvedor web
 - 📘 Atualmente aprendendo TypeScript , Nodejs ,Reactjs
 - 😄 Pronouns: ele / dele
 
