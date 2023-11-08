@@ -4,7 +4,6 @@
 
 - 🔭 Desenvolvedor web
 - 📘 Atualmente aprendendo TypeScript , Nodejs ,Reactjs
-- 😄 Pronouns: ele / dele
 
 <div align="center">
   <a href="https://github.com/LeonardoBarrochello">
