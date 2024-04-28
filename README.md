@@ -3,7 +3,7 @@
 
 
 - 🔭 Desenvolvedor web
-- 📘 Atualmente aprendendo TypeScript , Nodejs ,Reactjs
+- 📘 Atualmente trabalhando com TypeScript , Reactjs , C#
 
 <div align="center">
   <a href="https://github.com/LeonardoBarrochello">
